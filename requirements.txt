@@ -1,0 +1,7 @@
+anthropic
+chromadb
+sentence-transformers
+beautifulsoup4
+lxml
+streamlit
+tqdm

@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+*.pyc
+chroma_db/
+python-*-docs-html/
+python-*-docs-html.zip
+*.zip
+*.bak
+.env
+.env.*
+.streamlit/secrets.toml
